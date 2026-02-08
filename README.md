@@ -1,6 +1,6 @@
 # This is my profile
 # 💫 About Me:
-Hello , currently I am a student who is learning Python, Flask, MySql, Tailwind Css, HTML and CSS.
+Hello , currently I am an intern working at Axilivo Technologies Pvt. Ltd.
 
 
 ## 🌐 Socials:
@@ -15,5 +15,3 @@ Hello , currently I am a student who is learning Python, Flask, MySql, Tailwind 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AshishGolchha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
